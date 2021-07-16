@@ -1,1 +1,1 @@
-This is a test file. I am learning how to use Git.
+This is a test file. I am learning how to use Git. This line is for the new branch.
